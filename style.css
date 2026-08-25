@@ -1091,4 +1091,28 @@ footer p {
   .research-question h3 {
     font-size: 18px;
   }
+
+  .research-survey {
+  max-width: 850px;
+  margin: 40px auto 0;
+  padding: 35px;
+  background: white;
+  border-radius: 20px;
+  border: 1px solid #f1e2e7;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.04);
+  text-align: center;
+}
+
+.survey-description {
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 25px;
+}
+
+.research-survey iframe {
+  display: block;
+  width: 100%;
+  min-height: 900px;
+  border: none;
+  border-radius: 12px;
 }
