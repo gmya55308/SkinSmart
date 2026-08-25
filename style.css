@@ -794,3 +794,301 @@ footer p {
     }
 
 }
+/* =========================
+   SKINSMART RESEARCH
+========================= */
+
+.research-section {
+  padding: 80px 8%;
+  background: #fff9fb;
+  text-align: center;
+}
+
+.research-header {
+  max-width: 750px;
+  margin: 0 auto 40px;
+}
+
+.section-label {
+  color: #c98fa3;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+}
+
+.research-header h2 {
+  font-size: 38px;
+  margin-bottom: 15px;
+  color: #2d2d2d;
+}
+
+.research-intro {
+  color: #666;
+  line-height: 1.7;
+  font-size: 16px;
+}
+
+/* ACTIVE RESEARCH COUNTER */
+
+.research-count {
+  display: inline-flex;
+  align-items: center;
+  gap: 18px;
+  padding: 20px 30px;
+  margin: 20px auto 50px;
+  background: white;
+  border: 1px solid #f0dce3;
+  border-radius: 18px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.05);
+}
+
+.research-icon {
+  font-size: 30px;
+}
+
+.count-number {
+  display: block;
+  font-size: 34px;
+  font-weight: 700;
+  color: #c98fa3;
+}
+
+.count-label {
+  display: block;
+  font-size: 13px;
+  color: #777;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* RESEARCH CARDS */
+
+.research-grid {
+  max-width: 1050px;
+  margin: 0 auto 45px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 22px;
+}
+
+.research-card {
+  background: white;
+  padding: 30px;
+  border-radius: 18px;
+  border: 1px solid #f1e2e7;
+  text-align: left;
+}
+
+.research-card-icon {
+  font-size: 25px;
+}
+
+.research-card h3 {
+  color: #2d2d2d;
+  margin: 15px 0 10px;
+}
+
+.research-card p {
+  color: #666;
+  line-height: 1.7;
+  font-size: 15px;
+}
+
+/* RESEARCH QUESTION */
+
+.research-question {
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 35px;
+  background: #f8e9ee;
+  border-radius: 20px;
+}
+
+.question-label {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #b97991;
+}
+
+.research-question h3 {
+  color: #333;
+  font-size: 21px;
+  line-height: 1.6;
+  font-weight: 500;
+}
+
+/* MOBILE */
+
+@media (max-width: 750px) {
+
+  .research-section {
+    padding: 60px 6%;
+  }
+
+  .research-header h2 {
+    font-size: 30px;
+  }
+
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .research-question {
+    padding: 25px;
+  }
+
+  .research-question h3 {
+    font-size: 18px;
+  }
+}
+/* =========================
+   SKINSMART RESEARCH
+========================= */
+
+.research-section {
+  padding: 80px 8%;
+  background: #fff9fb;
+  text-align: center;
+}
+
+.research-header {
+  max-width: 750px;
+  margin: 0 auto 40px;
+}
+
+.section-label {
+  color: #c98fa3;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+}
+
+.research-header h2 {
+  font-size: 38px;
+  margin-bottom: 15px;
+  color: #2d2d2d;
+}
+
+.research-intro {
+  color: #666;
+  line-height: 1.7;
+  font-size: 16px;
+}
+
+/* ACTIVE RESEARCH COUNTER */
+
+.research-count {
+  display: inline-flex;
+  align-items: center;
+  gap: 18px;
+  padding: 20px 30px;
+  margin: 20px auto 50px;
+  background: white;
+  border: 1px solid #f0dce3;
+  border-radius: 18px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.05);
+}
+
+.research-icon {
+  font-size: 30px;
+}
+
+.count-number {
+  display: block;
+  font-size: 34px;
+  font-weight: 700;
+  color: #c98fa3;
+}
+
+.count-label {
+  display: block;
+  font-size: 13px;
+  color: #777;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* RESEARCH CARDS */
+
+.research-grid {
+  max-width: 1050px;
+  margin: 0 auto 45px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 22px;
+}
+
+.research-card {
+  background: white;
+  padding: 30px;
+  border-radius: 18px;
+  border: 1px solid #f1e2e7;
+  text-align: left;
+}
+
+.research-card-icon {
+  font-size: 25px;
+}
+
+.research-card h3 {
+  color: #2d2d2d;
+  margin: 15px 0 10px;
+}
+
+.research-card p {
+  color: #666;
+  line-height: 1.7;
+  font-size: 15px;
+}
+
+/* RESEARCH QUESTION */
+
+.research-question {
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 35px;
+  background: #f8e9ee;
+  border-radius: 20px;
+}
+
+.question-label {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #b97991;
+}
+
+.research-question h3 {
+  color: #333;
+  font-size: 21px;
+  line-height: 1.6;
+  font-weight: 500;
+}
+
+/* MOBILE */
+
+@media (max-width: 750px) {
+
+  .research-section {
+    padding: 60px 6%;
+  }
+
+  .research-header h2 {
+    font-size: 30px;
+  }
+
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .research-question {
+    padding: 25px;
+  }
+
+  .research-question h3 {
+    font-size: 18px;
+  }
+}
